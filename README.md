@@ -14,4 +14,5 @@ cmake ..
 make
 ```
 
-<img src="fig/fig1.png">
+<img src="Double Integral Planner/fig/fig1.png">
+
