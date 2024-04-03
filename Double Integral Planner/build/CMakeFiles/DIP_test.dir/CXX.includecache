@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/double_integral_planner.h
+iostream
+-
+vector
+-
+cmath
+-
+matplotlibcpp.h
+-
+
+/home/kay/Downloads/Double-Integral-Planner/Double Integral Planner/src/main.cpp
+double_integral_planner.h
+/home/kay/Downloads/Double-Integral-Planner/Double Integral Planner/src/double_integral_planner.h
+
