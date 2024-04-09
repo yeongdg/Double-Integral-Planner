@@ -1,0 +1,7 @@
+motors:
+  - name: PAN
+    v_max: 10.0
+    a_max: 10.0
+  - name: LIFT
+    v_max: 20.0
+    a_max: 20.0
